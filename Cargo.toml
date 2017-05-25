@@ -1,0 +1,6 @@
+[package]
+name = "vscode-rust-debug-example"
+version = "0.1.0"
+authors = ["Bryce Van Dyk <bryce@vandyk.net.nz>"]
+
+[dependencies]
