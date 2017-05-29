@@ -1,0 +1,1 @@
+A simple rust project to showcase Rust (MSVC toolchain) debugging in Visual Studio Code. See [my blog post](https://www.brycevandyk.com/debug-rust-on-windows-with-visual-studio-code-and-the-msvc-debugger) for more info.
